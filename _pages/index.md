@@ -10,6 +10,7 @@ sidebar:
 
 Welcome!
 
-This site uses pages as the primary content. Use the table of contents below to explore the sections of the zoning ordinance.
-
 {% include nav_list %}
+=======
+This site uses pages as the primary content. Use the table of contents below to navigate within this page.
+
