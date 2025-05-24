@@ -18,13 +18,40 @@ main:
       - title: "Section 105 – Compliance"
         url: /article-1/#section-105
 
-  - title: "Article II – Residential Districts"
+  - title: "Article II – General Provisions"
     url: /article-2/
     children:
-      - title: "Section 200 – Residential Districts"
+      - title: "Section 200 – Gardening, forestry, and land cultivation"
         url: /article-2/#section-200
-      - title: "Section 201 – Dimensional Requirements"
+      - title: "Section 201 – Yard requirements"
         url: /article-2/#section-201
-      # …and so on
+      - title: "Section 202 – Reduction of lot area or dimensions"
+        url: /article-2/#section-202
+      - title: "Section 203 – Height requirements"
+        url: /article-2/#section-203
+      - title: "Section 204 – Lots in two zoning districts"
+        url: /article-2/#section-204
+      - title: "Section 205 – One principal structure per residential lot"
+        url: /article-2/#section-205
+      - title: "Section 206 – Sight distance at street and driveway intersections"
+        url: /article-2/#section-206
+      - title: "Section 207 – Yard sales"
+        url: /article-2/#section-207
+      - title: "Section 208 – Reserved"
+        url: /article-2/#section-208
+      - title: "Section 209 – Manufactured housing"
+        url: /article-2/#section-209
+      - title: "Section 210 – Open building excavations"
+        url: /article-2/#section-210
+      - title: "Section 211 – Temporary uses and structures"
+        url: /article-2/#section-211
+      - title: "Section 212 – Anti-nuisance standards"
+        url: /article-2/#section-212
+      - title: "Section 213 – Impact fees"
+        url: /article-2/#section-213
+      - title: "Section 214 – Governmental uses"
+        url: /article-2/#section-214
+      - title: "Section 215 – Location of accessory use"
+        url: /article-2/#section-215
 
   # Continue for Article III, IV, etc.
