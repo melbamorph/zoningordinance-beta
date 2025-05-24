@@ -3,28 +3,28 @@ main:
     url: /
 
   - title: "Article I – Introduction"
-    url: /section-100/
+    url: /article-1/
     children:
       - title: "Section 100 – Title"
-        url: /section-100/
+        url: /article-1/#section-100
       - title: "Section 101 – Authority"
-        url: /section-101/
+        url: /article-1/#section-101
       - title: "Section 102 – Purpose"
-        url: /section-102/
+        url: /article-1/#section-102
       - title: "Section 103 – Applicability"
-        url: /section-103/
+        url: /article-1/#section-103
       - title: "Section 104 – Origins"
-        url: /section-104/
+        url: /article-1/#section-104
       - title: "Section 105 – Compliance"
-        url: /section-105/
+        url: /article-1/#section-105
 
   - title: "Article II – Residential Districts"
-    url: /section-200/
+    url: /article-2/
     children:
       - title: "Section 200 – Residential Districts"
-        url: /section-200/
+        url: /article-2/#section-200
       - title: "Section 201 – Dimensional Requirements"
-        url: /section-201/
+        url: /article-2/#section-201
       # …and so on
 
   # Continue for Article III, IV, etc.
