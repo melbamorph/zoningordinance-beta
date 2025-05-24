@@ -61,8 +61,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Melanie McDonough"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Lebanon Zoning Ordinance"
+  avatar : "/assets/images/city-seal.jpg"
   bio    : "Expirmenting with low-code, low-cost solutions for problems in local government."
   links:
     - label: "Website"
