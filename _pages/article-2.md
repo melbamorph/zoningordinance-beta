@@ -6,13 +6,13 @@ sidebar:
   nav: "main"
 ---
 
-## Section 200 – Gardening, forestry, and land cultivation
+## Section 200 – Gardening, forestry, and land cultivation {#section-200}
 
 The non-commercial raising of crops, keeping of gardens, orchards, indoor hydroponics/aquaponics, forestry (including tree farms), and maple sugaring are not regulated by this Ordinance except as provided in Article IV, Section 401 and Section 410. Greenhouses, sugar shacks, and other such *accessory buildings* to these activities are subject to all applicable regulations of this Ordinance.
 
 
 
-## Section 201 – Yard requirements
+## Section 201 – Yard requirements {#section-201}
 
 Except as otherwise provided herein, no building or structure other than accessory structures and buildings of 130 sq. ft. or less per Section 201.8 below shall occupy any part of any yard required by Article III, except that architectural details may extend not more than two (2) feet into any required yard.
 
@@ -55,11 +55,11 @@ One-story detached accessory structures and buildings of 130 sq. ft. or less and
 Accessory renewable energy systems shall not occupy the areas of required front, side and rear yards (a.k.a. required setbacks), except as allowed by Section 612.
 
 
-## Section 202 – Reduction of lot area or dimensions
+## Section 202 – Reduction of lot area or dimensions {#section-202}
 
 The configuration of a lot shall not be altered so that the area, yards, lot width, frontage, coverage or other requirements of this Ordinance are less than the minimums required herein. This requirement shall not apply when part of a lot is taken for a public purpose.
 
-## Section 203 – Height requirements
+## Section 203 – Height requirements {#section-203}
 
 ### 203.1 Height exceptions
 
@@ -85,44 +85,44 @@ To show that these standards are met, the applicant shall furnish the Board with
 Elevator enclosures, stairways, tanks, HVAC equipment, spires, cupolas, and similar structures and mechanical appurtenances may be erected above the height limits prescribed, provided they are set back from the edge of the roof a distance equal to their height above the roof, and provided further that the aggregate area of all such structures does not exceed 25 percent of the roof area.
 
 
-## Section 204 – Lots in two zoning districts
+## Section 204 – Lots in two zoning districts {#section-204}
 
 Where a district boundary line divides a lot of record, the regulations applicable to the less restricted portion of such lot may, at the owner's option, extend not more than 30 feet into the more restricted portion, provided the lot has frontage on a street in the less restricted district.
 
 
-## Section 205 – One principal structure per residential lot
+## Section 205 – One principal structure per residential lot {#section-205}
 
 No more than one principal structure intended for residential occupancy shall be placed on any one lot, except as otherwise provided in this Ordinance.
 
 
-## Section 206 – Sight distance at street and driveway intersections
+## Section 206 – Sight distance at street and driveway intersections {#section-206}
 
 There shall be no obstruction to vision between the heights of three (3) feet and ten (10) feet above the street surface within any triangular area formed by the intersection of two street lines and a third line joining them at points 25 feet away from their intersection, or by the intersection of a driveway and a street line and a third line joining them at points 25 feet away from their intersection. The Board of Adjustment may grant a special exception to this requirement, pursuant to Section 801.3, in the commercial and industrial districts only.
 
 
-## Section 207 – Yard sales
+## Section 207 – Yard sales {#section-207}
 
 A yard sale from any one location shall not be considered a use regulated under this Ordinance, providing that it does not occur more than twice within any calendar year for a period of not more than two consecutive days each and does not contain items purchased expressly for such sale. Any such type of sale exceeding these limits shall conform to the provisions of this Ordinance and shall require a zoning permit.
 
 
 
-## Section 208 – Reserved
+## Section 208 – Reserved {#section-208}
 
 
 
-## Section 209 – Manufactured housing
+## Section 209 – Manufactured housing {#section-209}
 
 Manufactured housing units are permitted only in manufactured housing parks or in manufactured housing PURDs. See Section 503 (“Manufactured Housing Parks”) and Section 504 (“Manufactured Housing PURDs”).
 
 
 
-## Section 210 – Open building excavations
+## Section 210 – Open building excavations {#section-210}
 
 Within six months after work on an excavation for a building has begun, the excavation shall be covered (such as with building construction) or filled to normal grade. For safety purposes, excavations with slopes exceeding one horizontal to two vertical shall be protected by a fence at least four feet in height.
 
 
 
-## Section 211 – Temporary uses and structures
+## Section 211 – Temporary uses and structures {#section-211}
 
 ### 211.1 General
 
@@ -148,19 +148,19 @@ A. Trailer criteria
 
 
 
-## Section 212 – Anti-nuisance standards
+## Section 212 – Anti-nuisance standards {#section-212}
 
 
 
-## Section 213 – Impact fees
+## Section 213 – Impact fees {#section-213}
 
 
 
-## Section 214 – Governmental uses
+## Section 214 – Governmental uses {#section-214}
 
 
 
-## Section 215 – Location of accessory use
+## Section 215 – Location of accessory use {#section-215}
 
 
 
