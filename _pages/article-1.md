@@ -1,6 +1,6 @@
 ---
 title: "Article I – Introduction"
-permalink: /section-100/
+permalink: /article-1/
 layout: single
 sidebar:
   nav: "main"
