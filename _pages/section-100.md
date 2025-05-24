@@ -3,7 +3,7 @@ title: "Article I – Introduction"
 permalink: /section-100/
 layout: docs
 sidebar:
-  nav: main
+  nav: "main"
 ---
 
 ## Section 100 – Title  
