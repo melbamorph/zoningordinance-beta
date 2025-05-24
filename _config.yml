@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Lebanon Zoning Ordinance"
-  avatar : "/assets/images/city-seal.png"
+  # avatar : "/assets/images/city-seal.png"
   bio    : "Expirmenting with low-code, low-cost solutions for problems in local government."
   links:
     - label: "Website"
