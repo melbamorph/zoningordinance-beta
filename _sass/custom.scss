@@ -6,3 +6,10 @@
 .sidebar-nav li.active > ul.children {
   display: block;
 }
+
+/* Make the top navigation sticky */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
