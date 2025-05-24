@@ -2,6 +2,7 @@
 title: "Article II – General Provisions"
 permalink: /article-2/
 layout: single
+toc: true
 sidebar:
   nav: "main"
 ---
