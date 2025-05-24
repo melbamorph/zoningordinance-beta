@@ -35,3 +35,6 @@ No land in the City of Lebanon shall hereafter be used for building, development
 This Ordinance repeals and replaces the Zoning Ordinance currently in effect in the City of Lebanon, which was adopted on December 5, 1990, and amended several times.
 
 ## Section 105 – Compliance with Site Plan Review Regulations and Subdivision Regulations {#section-105}
+The regulations set forth in this Ordinance are not intended to and shall not be construed to relieve a proposed land development from compliance with any applicable requirement set forth in the Lebanon Site Plan Review Regulations or to relieve a proposed subdivision from compliance with any applicable requirement of the Lebanon Subdivision Regulations.
+
+Whenever the regulations set forth in this Ordinance conflict with any applicable requirements set forth in the Lebanon Site Plan Review Regulations or the Lebanon Subdivision Regulations, the provision which imposes the greater restriction or the higher standard shall apply; provided, however, that neither set of Regulations shall be construed as permitting anything prohibited by this Ordinance.
