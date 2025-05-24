@@ -11,6 +11,5 @@ sidebar:
 Welcome!
 
 {% include nav_list %}
-=======
-This site uses pages as the primary content. Use the table of contents below to navigate within this page.
+
 
