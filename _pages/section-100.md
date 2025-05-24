@@ -1,7 +1,7 @@
 ---
 title: "Article I – Introduction"
 permalink: /section-100/
-layout: docs
+layout: single
 sidebar:
   nav: "main"
 ---
