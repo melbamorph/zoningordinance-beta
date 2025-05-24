@@ -8,7 +8,7 @@ sidebar:
 
 ## Section 200 – Gardening, forestry, and land cultivation
 
-The non-commercial raising of crops, keeping of gardens, orchards, indoor hydroponics/aquaponics, forestry (including tree farms), and maple sugaring are not regulated by this Ordinance except as provided in Article IV, Section 401 and Section 410. Greenhouses, sugar shacks, and other such **accessory buildings** to these activities are subject to all applicable regulations of this Ordinance.
+The non-commercial raising of crops, keeping of gardens, orchards, indoor hydroponics/aquaponics, forestry (including tree farms), and maple sugaring are not regulated by this Ordinance except as provided in Article IV, Section 401 and Section 410. Greenhouses, sugar shacks, and other such *accessory buildings* to these activities are subject to all applicable regulations of this Ordinance.
 ---
 
 ## Section 201 – Yard requirements
