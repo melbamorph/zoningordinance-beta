@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Article I – Introduction"
+    url: /section-100/
+  # Add further entries for each Article/Section, for example:
+  # - title: "Article II – Residential Districts"
+  #   url: /section-200/
+  # - title: "Section 200 – Residential Districts"
+  #   url: /section-200/
+  # Continue listing all Articles & Sections in the order you want them to appear
