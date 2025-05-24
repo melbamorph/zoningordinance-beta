@@ -1,10 +1,8 @@
 ---
 title: "Article I – Introduction"
 permalink: /section-100/
-layout: single
+layout: docs
 ---
-
-# Article I – Introduction
 
 ## Section 100 – Title  
 This Ordinance may be known and may be cited as “Zoning Ordinance of the City of Lebanon, New Hampshire.”
