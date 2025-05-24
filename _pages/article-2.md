@@ -64,21 +64,20 @@ The configuration of a lot shall not be altered so that the area, yards, lot wid
 ### 203.1 Height exceptions
 
 Except as provided in Section 407 for structures near the airport or in the airport approach zone, the following structures may exceed the maximum height limitations of Article III by not more than 20 percent:  
-
-A. Flagpoles.  
-B. Rooftop features including chimneys, spires, towers, lightning rods, heating, ventilation and air-conditioning equipment, elevator shafts, accessory solar energy facilities or similar structures/equipment.  
-C. Radio or TV antennae or satellite dish for private, non-commercial reception.  
-D. Accessory wind energy facilities, except as provided in Section 203.3.  
-E. Silos, except that the Board of Adjustment may allow a greater height for silos in the RL Districts by special exception granted pursuant to Section 801.3.
-
+<ol type="A">
+<li>Flagpoles.</li>  
+<li>Rooftop features including chimneys, spires, towers, lightning rods, heating, ventilation and air-conditioning equipment, elevator shafts, accessory solar energy facilities or similar structures/equipment.</li>
+<li>Radio or TV antennae or satellite dish for private, non-commercial reception.</li>
+<li>Accessory wind energy facilities, except as provided in Section 203.3.</li>
+<li>Silos, except that the Board of Adjustment may allow a greater height for silos in the RL Districts by special exception granted pursuant to Section 801.3.</li>
+</ol>
 ### 203.2 Commercial television or radio broadcast station antennas and towers
 
 Commercial television or radio broadcast station antennas or towers allowed by *special exception* in RL Districts shall be exempt from the maximum height limits of Section 312, Section 313 and Section 314, except as provided in Section 407; provided, however, that in addition to the findings required by Section 801.3, the Board of Adjustment shall also find:
-
->**A.** That the proposed height of the antenna and associated structures such as towers is the minimum height permitted by federal regulations for the frequency and type of broadcast signal to be used by the applicant, in light of best available technology, and that no additional height is being sought solely to increase the range of the signal; and  
->
-> **B.** That there are no feasible alternative sites within the RL Districts of the City where the facility could be located with significantly less visual impact on the neighborhood and City as a whole, due to reduced height needs, reduced visibility, or other site advantages.
-
+<ol type="A">
+<li>That the proposed height of the antenna and associated structures such as towers is the minimum height permitted by federal regulations for the frequency and type of broadcast signal to be used by the applicant, in light of best available technology, and that no additional height is being sought solely to increase the range of the signal; and </li> 
+<li>That there are no feasible alternative sites within the RL Districts of the City where the facility could be located with significantly less visual impact on the neighborhood and City as a whole, due to reduced height needs, reduced visibility, or other site advantages.</li>
+</ol>
 To show that these standards are met, the applicant shall furnish the Board with a written impact analysis prepared by a professional radio frequency engineer familiar with both the technology and the regulatory framework for the type of station proposed. The analysis shall not be conclusive, but shall detail the applicant’s specific objectives, and shall evaluate and compare specific alternative technologies, and the suitability and visual impacts of specific alternative sites within the City, using viewshed maps and photo simulations. The Board of Adjustment may, at the applicant’s expense, hire a person, with such qualifications as the Board may determine, to review the analysis. The Board may require additional information as needed to decide the case.
 
 ### 203.3 Rooftop structures
