@@ -2,7 +2,7 @@
 title: "Article I – Introduction"
 permalink: /article-1/
 layout: single
-toc: true
+toc: false
 sidebar:
   nav: "main"
 ---

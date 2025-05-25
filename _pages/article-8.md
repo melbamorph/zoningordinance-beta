@@ -2,7 +2,7 @@
 title: "Article 8 – Placeholder"
 permalink: /article-8/
 layout: single
-toc: true
+toc: false
 sidebar:
   nav: "main"
 ---
